@@ -55,20 +55,7 @@ const App = () => {
       </div>
       <NewsCards articles={newsArticles} activeArticle={activeArticle} />
       
-       <Box className={classes.box}>
-          <Container maxWidth='lg'>
-            <Grid container>
-              <Grid item xs={12} sm={4} className={classes.footer}>
-                <Box> <strong> <h1> Contacts : </h1></strong></Box>
-                
-                  <li className={classes.li}> <Link  href='https://twitter.com/ArmyBhd' target='_blank'>  <TwitterIcon/> </Link> </li>
-                  <li className={classes.li}> <Link  href='https://www.instagram.com/boore_da/' target='_blank'>  <InstagramIcon /> </Link> </li>
-                  <li className={classes.li}> <Link  href='https://www.linkedin.com/in/reda-ait-cheikh-35021018b/' target='_blank'> <LinkedInIcon/> </Link> </li>
-                
-              </Grid>
-            </Grid>
-          </Container>
-        </Box>
+       
     
     </div>
   );
