@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/jarvis/static/css/main.3f44d85f.chunk.css",
+    "main.js": "/jarvis/static/js/main.d81aea9b.chunk.js",
+    "main.js.map": "/jarvis/static/js/main.d81aea9b.chunk.js.map",
+    "runtime-main.js": "/jarvis/static/js/runtime-main.ee929edc.js",
+    "runtime-main.js.map": "/jarvis/static/js/runtime-main.ee929edc.js.map",
+    "static/js/2.a4076cfa.chunk.js": "/jarvis/static/js/2.a4076cfa.chunk.js",
+    "static/js/2.a4076cfa.chunk.js.map": "/jarvis/static/js/2.a4076cfa.chunk.js.map",
+    "index.html": "/jarvis/index.html",
+    "static/css/main.3f44d85f.chunk.css.map": "/jarvis/static/css/main.3f44d85f.chunk.css.map",
+    "static/js/2.a4076cfa.chunk.js.LICENSE.txt": "/jarvis/static/js/2.a4076cfa.chunk.js.LICENSE.txt",
+    "static/media/BREAKING-NEWS-GENERIC-1.da2cb4ed.jpg": "/jarvis/static/media/BREAKING-NEWS-GENERIC-1.da2cb4ed.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ee929edc.js",
+    "static/js/2.a4076cfa.chunk.js",
+    "static/css/main.3f44d85f.chunk.css",
+    "static/js/main.d81aea9b.chunk.js"
+  ]
+}
